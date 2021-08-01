@@ -13,3 +13,10 @@ git push
 git checkout
 git merge
 ```
+
+Setup your .gitconfig.
+
+```
+git config --global user.name "your name"
+git config --global user.email youremail@example.com
+```
