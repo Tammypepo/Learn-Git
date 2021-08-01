@@ -20,3 +20,11 @@ Setup your .gitconfig.
 git config --global user.name "your name"
 git config --global user.email youremail@example.com
 ```
+
+Don't push thest to git
+
+- Username / Password / IP address
+- Connfig file (Credentials)
+- Private key
+- Individual data like passport ID
+- Secret!!
