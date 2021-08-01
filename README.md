@@ -40,7 +40,18 @@ foldername/
 ```
 
 # Branching strategies
+**Trunk-based development**
+- Master/Main (Trunk)
+- Feature
+- Release
 
-Trunk-based development
--for quick development
-<img src="//trunkbaseddevelopment.com/trunk1c.png">
+![github-large](https://trunkbaseddevelopment.com/trunk1c.png)
+
+**Gitflow**
+- Master/Main (only one)
+- Feature
+- Release
+- Develop (only one)
+- Hotfix
+
+![github-large](https://i2.wp.com/lanziani.com/slides/gitflow/images/gitflow_1.png?zoom=2)
