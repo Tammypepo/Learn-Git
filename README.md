@@ -29,7 +29,7 @@ Don't push these to git
 - Individual data like passport ID
 - Secret!!
 
-Use .gitignore instead
+Use .gitignore instead [gitignore](https://github.com/github/gitignore)
 
 ```
 filename.json
