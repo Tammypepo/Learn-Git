@@ -21,10 +21,20 @@ git config --global user.name "your name"
 git config --global user.email youremail@example.com
 ```
 
-Don't push thest to git
+Don't push these to git
 
 - Username / Password / IP address
 - Connfig file (Credentials)
 - Private key
 - Individual data like passport ID
 - Secret!!
+
+Use .gitignore instead
+
+```
+filename.json
+.cache
+foldername/
+.vscode/*
+.idea/*
+```
